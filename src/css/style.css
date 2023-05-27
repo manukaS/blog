@@ -5,6 +5,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+.color-blue {
+  color: #2dc7ed;
+}
+
 h1,
 h2,
 h3,
@@ -688,6 +692,7 @@ a {
 .container {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 8px 24px;
 }
 
 .border {
@@ -719,4 +724,15 @@ a {
   border-radius: 4px;
   color: #fafcfc;
   padding: 8px;
+}
+
+.img-profile {
+  width: 56px;
+  height: 56px;
+  background-color: #4e4e50;
+  border-radius: 50%;
+}
+
+.container-posts {
+  display: flex;
 }/*# sourceMappingURL=style.css.map */

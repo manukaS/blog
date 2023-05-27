@@ -1,7 +1,7 @@
 import logosvg from "../../svg/logo.svg";
 
 const Header = () => {
-  const descLogo = "Essa é a logo do Blog.";
+  const descLogo = "Logo do Blog.";
 
   return (
     <>

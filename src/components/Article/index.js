@@ -3,8 +3,14 @@ import Post from "../Post";
 const Article = () => {
   return (
     <>
-      <h1>Article</h1>
-      <Post />
+      <section className="container">
+        <h1>Article</h1>
+        <div className="mt-5 container-posts">
+          <Post />
+          <Post />
+          <Post />
+        </div>
+      </section>
     </>
   );
 };
