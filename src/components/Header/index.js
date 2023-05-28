@@ -15,17 +15,17 @@ const Header = () => {
         <ul className="menu">
           <li>
             <a href="#" className="nav-link">
-              Categories
+              Categorias
             </a>
           </li>
           <li>
             <a href="#" className="nav-link">
-              About
+              Sobre
             </a>
           </li>
           <li>
             <a href="#" className="nav-link">
-              Contact
+              Contato
             </a>
           </li>
         </ul>
